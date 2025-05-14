@@ -1,3 +1,3 @@
 # birspreworkshop
 Testing for BIRS workshop
-Make a change
+Let's change things a bit
